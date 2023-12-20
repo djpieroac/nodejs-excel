@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-excel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "compare": "node compare.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arrays-to-csv": "^2.0.1",
+    "csv-reader": "^1.0.12",
+    "csv-stringify": "^6.4.5",
+    "exceljs": "^4.4.0",
+    "read-excel-file": "^5.7.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
